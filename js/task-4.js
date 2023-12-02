@@ -1,6 +1,6 @@
 function getShippingCost(country) {
     let message;
-    switch (key) {
+    switch (country) {
         case "China" :
             message = `Shipping to ${country} will cost 100 credits`;
             return message;
