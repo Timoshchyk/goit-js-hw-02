@@ -14,7 +14,7 @@ function getShippingCost(country) {
         return message;
             break;
         case "Jamaica" :
-            message = `Shipping to ${country} will cost 170 credits`;
+            message = `Shipping to ${country} will cost 120 credits`;
         return message;
             break;
         default:
